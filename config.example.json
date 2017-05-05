@@ -1,0 +1,7 @@
+{
+	"logFile": "/tmp/fs.log",
+	"watch": [
+		"~/Desktop",
+		"~/Documents"
+	]
+}
